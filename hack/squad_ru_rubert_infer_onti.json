@@ -2,7 +2,7 @@
   "dataset_reader": {
     "class_name": "squad_dataset_reader",
     "dataset": "sbersquad_train",
-    "url": "http://raw.githubusercontent.com/CicadaInc/onti_2020_2021/master/hack/sbersquad_train.json.tar.gz"
+    "url": "http://raw.githubusercontent.com/CicadaInc/onti_2020_2021/master/hack/sbersquad_train.tar.gz"
   },
   "dataset_iterator": {
     "class_name": "squad_iterator",
